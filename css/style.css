@@ -30,7 +30,7 @@
 }
 
 /* spaces form top and left */
-.conteiner{
+.conteiner,ul{
   margin-left: 20px;
   margin-top: 20px;
 }
