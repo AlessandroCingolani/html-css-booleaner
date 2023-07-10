@@ -63,14 +63,20 @@ thead{
   background-color: dodgerblue;
 }
 
-/* fix here!!!! */
+
 th{
   text-align: left;
 }
 
+/* table dimension ad border fix */
 table{
   border-collapse: collapse;
   width: 100%;
+}
+
+/* table body background  */
+.blue-sez{
+  background-color: rgba(0, 255, 255, 0.363);
 }
 
 /* dimension imgs block */
