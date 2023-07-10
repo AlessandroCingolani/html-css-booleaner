@@ -30,9 +30,14 @@
 }
 
 /* spaces form top and left */
-.conteiner,ul{
+.container{
   margin-left: 20px;
   margin-top: 20px;
+}
+
+/* position inside list */
+ul{
+  list-style-position: inside;
 }
 
 /* all section distances */
