@@ -29,24 +29,29 @@
   text-shadow: rgb(59, 59, 56) 1px 0 10px;
 }
 
+/* spaces form top and left */
 .conteiner{
   margin-left: 20px;
   margin-top: 20px;
 }
 
+/* all section distances */
 section{
   margin-bottom: 20px;
 }
 
+/* color for evidence words */
 .evident{
   background-color: yellow;
 }
 
+/* table head with background */
 thead{
   color: white;
   background-color: dodgerblue;
 }
 
+/* fix here!!!! */
 th{
   text-align: left;
 }
@@ -56,9 +61,22 @@ table{
   width: 100%;
 }
 
+/* dimension imgs block */
 .img-lorem{
   width: 300px;
   height: 200px;
-  background-image: url("../img/monitor.jpg");
   background-size: cover;
+  margin-bottom: 20px;
+  color: white;
+  
 }
+
+/* imgs */
+.monitor{
+  background-image: url("../img/monitor.jpg");
+}
+
+.graph{
+  background-image: url("../img/graph.jpg");
+}
+/* /imgs */
