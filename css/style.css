@@ -80,3 +80,9 @@ table{
   background-image: url("../img/graph.jpg");
 }
 /* /imgs */
+
+.white-lorem{
+  color: white;
+  font-weight: 700;
+  padding: 10px 20px;
+}
