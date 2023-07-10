@@ -46,3 +46,12 @@ thead{
   color: white;
   background-color: dodgerblue;
 }
+
+th{
+  text-align: left;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
