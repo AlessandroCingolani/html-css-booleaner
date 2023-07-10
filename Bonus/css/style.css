@@ -29,10 +29,10 @@
   text-shadow: rgb(59, 59, 56) 1px 0 10px;
 }
 
-/* spaces form top and left */
-.conteiner,ul{
-  margin-left: 20px;
-  margin-top: 20px;
+/*scale all conteiner*/
+.conteiner{
+ width: 80%;
+ margin: auto;
 }
 
 /* all section distances */
