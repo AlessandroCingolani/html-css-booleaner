@@ -29,7 +29,7 @@
 }
 
 /*scale all conteiner*/
-.conteiner,#title-position{
+.container,#title-position{
  width: 80%;
  margin: auto;
 }
@@ -58,7 +58,7 @@ a{
 
 /* fix list problem  */
 ul{
-  padding-left: 20px;
+  list-style-position: inside;
 }
 
 /* table head with background */
