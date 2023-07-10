@@ -25,12 +25,11 @@
   font-family: 'Lora', serif;
   font-family: 'Roboto Slab', serif;
   padding-top: 45px;
-  padding-left: 20px;
   text-shadow: rgb(59, 59, 56) 1px 0 10px;
 }
 
 /*scale all conteiner*/
-.conteiner{
+.conteiner,#title-position{
  width: 80%;
  margin: auto;
 }
@@ -55,6 +54,11 @@ a{
 /* color for evidence words */
 .evident{
   background-color: yellow;
+}
+
+/* fix list problem  */
+ul{
+  padding-left: 20px;
 }
 
 /* table head with background */
