@@ -8,15 +8,18 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* box header dimension and color */
 .box-header{
   width: 100%;
   height: 100px;
   background-color: rgb(0, 123, 255);
 }
 
-.head-img{
+/* img background header */
+.header-img{
   width: 100%;
   height: 100%;
   background-image: url("../img/pattern.png");
   background-size: 25%;
 }
+
