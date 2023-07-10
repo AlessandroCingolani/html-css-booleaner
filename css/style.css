@@ -44,6 +44,14 @@ section{
   color: gray;
 }
 
+a{
+  text-decoration: none;
+}
+
+.size-p{
+  font-size: 0.8em;
+}
+
 /* color for evidence words */
 .evident{
   background-color: yellow;
