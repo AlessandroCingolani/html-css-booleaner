@@ -24,8 +24,9 @@
   color: white;
   font-family: 'Lora', serif;
   font-family: 'Roboto Slab', serif;
-  padding-top: 35px;
+  padding-top: 45px;
   padding-left: 20px;
+  text-shadow: rgb(59, 59, 56) 1px 0 10px;
 }
 
 .conteiner{
