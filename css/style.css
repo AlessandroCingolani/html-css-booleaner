@@ -41,3 +41,8 @@ section{
 .evident{
   background-color: yellow;
 }
+
+thead{
+  color: white;
+  background-color: dodgerblue;
+}
