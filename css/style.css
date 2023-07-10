@@ -63,9 +63,10 @@ thead{
   background-color: dodgerblue;
 }
 
-
-th{
+/* calc the total widht for 3 space  */
+td, th {
   text-align: left;
+  width: calc(100% / 3);
 }
 
 /* table dimension ad border fix */
